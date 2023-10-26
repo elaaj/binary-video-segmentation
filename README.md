@@ -26,10 +26,10 @@ Before of running the main notebook, there are some requirements:
 
 - Python 3.
 - The following python modules:
-- - matplotlib
-- - opencv-python
-- - numpy
-- - sklearn
+  - matplotlib
+  - opencv-python
+  - numpy
+  - sklearn
 
 ## Usage
 
