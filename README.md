@@ -22,13 +22,14 @@ The files **watershedOpenCV** and **customAlgorithm** as hinted by their names h
 
 ## Installation
 
-In order to run this project it's required a Python 3 installation, along with the following python modules:
-```bash
-pip install matplotlib
-pip install opencv-python
-pip install numpy
-pip install sklearn
-```
+Before of running the main notebook, there are some requirements:
+
+- Python 3.
+- The following python modules:
+- - matplotlib
+- - opencv-python
+- - numpy
+- - sklearn
 
 ## Usage
 
