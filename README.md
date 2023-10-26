@@ -29,6 +29,8 @@ Before of running the main notebook, there are some requirements:
   - opencv-python
   - numpy
   - sklearn
+ 
+Also, the "data" folder must be placed outside of the folder containing all the algorithms, or the path in the main file must be adapted to the new data location.
 
 ## Usage
 
