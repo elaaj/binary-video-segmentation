@@ -17,7 +17,7 @@ The code also includes an evaluation of the results through the use of a confusi
 ## Description:
 
 The **main.ipynb** jupyter notebook hosts the main, which interfaces the two segmentation algorithms, using the chosen one over the chosen video.
-The files **watershedOpenCV** and **customAlgorithm** as hinted by their names host the related segmentation algorithms.
+The Python files **watershedOpenCV.py** and **customAlgorithm.py** as hinted by their names host the related segmentation algorithms.
 
 ## Installation
 
